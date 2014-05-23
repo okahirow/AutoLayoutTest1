@@ -390,7 +390,6 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Hiromitsu Oka (X6K67X83LE)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoLayoutTest1/AutoLayoutTest1-Prefix.pch";
 				INFOPLIST_FILE = "AutoLayoutTest1/AutoLayoutTest1-Info.plist";
@@ -404,7 +403,6 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Hiromitsu Oka (X6K67X83LE)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoLayoutTest1/AutoLayoutTest1-Prefix.pch";
 				INFOPLIST_FILE = "AutoLayoutTest1/AutoLayoutTest1-Info.plist";
@@ -472,7 +470,6 @@
 				45476473192F9EDE00FC8930 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		45476474192F9EDE00FC8930 /* Build configuration list for PBXNativeTarget "AutoLayoutTest1Tests" */ = {
 			isa = XCConfigurationList;
@@ -481,7 +478,6 @@
 				45476476192F9EDE00FC8930 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
