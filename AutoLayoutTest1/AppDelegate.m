@@ -3,7 +3,7 @@
 //  AutoLayoutTest1
 //
 //  Created by hiro on 2014/05/24.
-//  Copyright (c) 20114年 hiro. All rights reserved.
+//  Copyright (c) 2014年 hiro. All rights reserved.
 //
 
 #import "AppDelegate.h"
